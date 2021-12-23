@@ -1,0 +1,22 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skysea1004/gitflow2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skysea1004/gitflow2/issues"
+  },
+  "homepage": "https://github.com/skysea1004/gitflow2#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
